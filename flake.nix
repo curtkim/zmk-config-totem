@@ -38,6 +38,7 @@
 	pkgs.protobuf
 	pkgs.python3Packages.protobuf
 	pkgs.python3Packages.grpcio-tools
+	pkgs.just
       ];
     };
   };
